@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Kumul Campus Services",
+    "slug": "kumul-campus-services",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F7F5F2",
+    "plugins": ["expo-sqlite"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "edu.example.kumulcampusservices"
+    },
+    "android": {
+      "package": "edu.example.kumulcampusservices",
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
